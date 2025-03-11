@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/MegaCabService/src/java/service/BookingService.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/MegaCabService/src/java/controller/UserController.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/MegaCabService/src/java/controller/BookingController.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/MegaCabService/src/java/dao/DriverDAOImpl.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/MegaCabService/src/java/utils/BookingValidationUtils.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/MegaCabService/src/java/dao/BookingDAO.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/MegaCabService/src/java/model/Booking.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/MegaCabService/src/java/model/enums/UserRoles.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/MegaCabService/src/java/model/enums/PaymentStatus.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/MegaCabService/src/java/utils/UserValidationUtils.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/MegaCabService/src/java/service/BookingServiceImpl.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/MegaCabService/src/java/service/UserServiceImpl.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/MegaCabService/src/java/model/enums/DriverStatus.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/MegaCabService/src/java/dao/BookingDAOImpl.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/MegaCabService/src/java/model/enums/BookingStatus.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/MegaCabService/src/java/model/Customer.java</file>
+        </group>
+    </open-files>
+</project-private>
