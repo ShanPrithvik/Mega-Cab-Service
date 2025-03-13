@@ -4,6 +4,7 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
+//This is my Database Config File
 public class DatabaseConnection { 
     private static final String URL = "jdbc:mysql://localhost:3306/megacitycab";
     private static final String USER = "root"; 
@@ -12,6 +13,7 @@ public class DatabaseConnection {
     public static Connection getConnection() {   
         try {
             Class.forName("com.mysql.cj.jdbc.Driver");
+            System.out.println("This is sampel");
             Connection conn = DriverManager.getConnection(URL, USER, PASSWORD);
             return conn;          
         } catch (ClassNotFoundException | SQLException e) {               
